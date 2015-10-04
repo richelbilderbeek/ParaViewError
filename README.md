@@ -1,2 +1,3 @@
 # ParaViewError
-Error I found in ParaView with a detailed log
+
+Error I found in ParaView with a detailed log.
